@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : anyimaging
- Source Server Type    : MySQL
- Source Server Version : 80027
- Source Host           : localhost:3306
- Source Schema         : cloud_image
-
- Target Server Type    : MySQL
- Target Server Version : 80027
- File Encoding         : 65001
-
- Date: 19/09/2023 10:20:24
-*/
-
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
