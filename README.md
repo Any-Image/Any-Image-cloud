@@ -28,10 +28,10 @@
 
 5、新建数据库。
      
-     在终端或Navicat中运行“数据库结构文件”文件夹中的“cloud_image.sql”文件即可。
+     在终端或Navicat中运行“数据库结构文件”文件夹中的“any_image.sql”文件即可。
 
 6、后端代码的运行步骤：
      
-     首先在IntelliJ IDEA中打开后端代码文件“cloud_image”，打开“cloud_image->src->main->resources”中的“application.yml”文件，按实际情况修改数据库配置中的url中的端口号和数据库用户名和密码。
+     首先在IntelliJ IDEA中打开后端代码文件，打开“src->main->resources”中的“application.yml”文件，按实际情况修改数据库配置中的url中的端口号和数据库用户名和密码。
      
      最后，返回上级目录，运行“CloudImageApplication”文件。
