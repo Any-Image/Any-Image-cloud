@@ -22,7 +22,9 @@
 
      默认访问路径：http://localhost:8080/home.html/（可根据实际情况调整端口号）
 
-     本项目支持多端部署，配置文件详情见"泛影云前端代码/src/components/ChooseEdge.vue"及"泛影云前端代码/public/config/backendapi.js"。如单机部署，请直接访问：http://xxx/login.html/
+     本项目支持多端部署，配置文件详情见"泛影云前端代码/src/components/ChooseEdge.vue"及"泛影云前端代码/public/config/backendapi.js"。
+     
+     如单机部署，请直接访问：http://xxx/login.html/或手动修改。
 
 5、新建数据库。
      
