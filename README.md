@@ -35,3 +35,5 @@
      首先在IntelliJ IDEA中打开后端代码文件，打开“src->main->resources”中的“application.yml”文件，按实际情况修改数据库配置中的url中的端口号和数据库用户名和密码。
      
      最后，返回上级目录，运行“CloudImageApplication”文件。
+
+Tips：此项目需结合泛影阅片Web端使用才能发挥所有功能，否则功能会受限，例如，”查看影像“功能。泛影阅片Web端敬请期待！
